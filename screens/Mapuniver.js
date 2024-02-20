@@ -6,7 +6,7 @@ import { StyleSheet, View, TouchableOpacity,Text, Dimensions } from "react-nativ
 import MapViewDirections from "react-native-maps-directions";
 import * as Location from 'expo-location';
 
-const GOOGLE_MAPS_APIKEY = "AIzaSyDBMDbPv7bNePHYDoGo28yK8ddrPnJ2hEY";
+const GOOGLE_MAPS_APIKEY = "your_api_key";
 
 export default function Mapuniver({navigation}) {
 
